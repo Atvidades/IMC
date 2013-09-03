@@ -1,0 +1,15 @@
+E:\3° Módulo\PJS\Exercício valendo nota\Exercício valendo nota\bin\Debug\Exercício valendo nota.exe
+E:\3° Módulo\PJS\Exercício valendo nota\Exercício valendo nota\bin\Debug\Exercício valendo nota.pdb
+E:\3° Módulo\PJS\Exercício valendo nota\Exercício valendo nota\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\3° Módulo\PJS\Exercício valendo nota\Exercício valendo nota\obj\x86\Debug\Exercício_valendo_nota.Form1.resources
+E:\3° Módulo\PJS\Exercício valendo nota\Exercício valendo nota\obj\x86\Debug\Exercício_valendo_nota.Properties.Resources.resources
+E:\3° Módulo\PJS\Exercício valendo nota\Exercício valendo nota\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\3° Módulo\PJS\Exercício valendo nota\Exercício valendo nota\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\3° Módulo\PJS\Exercício valendo nota\Exercício valendo nota\obj\x86\Debug\Exercício valendo nota.exe
+E:\3° Módulo\PJS\Exercício valendo nota\Exercício valendo nota\obj\x86\Debug\Exercício valendo nota.pdb
+E:\3° Módulo\PJS\Exercício valendo nota\Exercício valendo nota\bin\Debug\Exercício valendo nota.exe.manifest
+E:\3° Módulo\PJS\Exercício valendo nota\Exercício valendo nota\bin\Debug\Exercício valendo nota.application
+E:\3° Módulo\PJS\Exercício valendo nota\Exercício valendo nota\obj\x86\Debug\Exercício valendo nota.exe.manifest
+E:\3° Módulo\PJS\Exercício valendo nota\Exercício valendo nota\obj\x86\Debug\Exercício valendo nota.application
+E:\3° Módulo\PJS\IMC\Exercício valendo nota\obj\x86\Debug\Exercício valendo nota.exe
+E:\3° Módulo\PJS\IMC\Exercício valendo nota\obj\x86\Debug\Exercício valendo nota.pdb
